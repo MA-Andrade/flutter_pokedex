@@ -1,10 +1,8 @@
-//import 'dart:convert';
 import 'dart:convert';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_pokedex/model/pokemon.dart';
 import 'package:http/http.dart' as http;
-//import 'package:flutter_pokedex/model/pokemon.dart';
 
 const baseURl = "pokeapi.co";
 
